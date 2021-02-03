@@ -1,4 +1,6 @@
-int n;
+                we can use unique for the purpose
+		
+		int n;
 		cin >> n;
 		vector<int> a(n);
 		for (auto &it : a) cin >> it;
